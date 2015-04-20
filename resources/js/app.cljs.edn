@@ -1,0 +1,2 @@
+{:require  [cljs-time-test.app]
+ :init-fns [cljs-time-test.app/init]}
